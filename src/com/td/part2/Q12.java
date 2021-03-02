@@ -1,4 +1,4 @@
-package com.td.part1;
+package com.td.part2;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

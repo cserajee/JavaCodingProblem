@@ -18,7 +18,7 @@ public class Q10 {
 
 	private static Set<String> 
 		    permuteAndStore(String prefix, String str) {
-		  System.out.println(prefix +" : "+ str);
+		
 		  Set<String> permutations = new HashSet<>();
 		  int n = str.length();
 
